@@ -26,11 +26,16 @@ order6 = Order.new smiling_grey_cat, olive, "Honey Lavender Latte", "noon"
 
 binding.pry
 
-#Who's the most experienced barista? -who's worked the most years? DONE
-#Which cats got a drink made by a barista who specializes in that drink? -which cat's
+# What orders did each given cat make?
+# Which baristas was a particular cat served by?
+# Which cats did a particular barista serve?
+# What unique drinks did each given barista make?
+# Which barista has the most years of experience?
+# How many orders were placed in the morning?
+# What's the name of the barista who specializes in Iced Coffee? 
+
+# Which cats got a drink made by a barista who specializes in that drink? -which cat's
 #      favorite drink matched a barista's specialty?
-#What's the most popular drink ordered?
-#What's the least popular time to order a drink?
-#Which barista worked a double shift? -which barista's name pops up twice in the day?
-#What drinks did each given barista make?
-#What order did each given cat make?
+# What's the most popular drink ordered?
+# What's the least popular time to order a drink?
+# Which barista worked a double shift? -which barista's name pops up twice in the day?

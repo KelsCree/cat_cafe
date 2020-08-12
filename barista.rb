@@ -13,9 +13,5 @@ class Barista
     def self.all
         @@all
     end
-
-    def self.most_experienced
-        self.all.max_by { |barista| barista.years_experience }
-    end
     
 end
